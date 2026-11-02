@@ -1,4 +1,4 @@
-# Pipeline de Atribuição de CRM & Data Quality (BigQuery / MySQL 8.0)
+# Pipeline de Atribuição de CRM & Data Quality (MySQL 8.0)
 
 Este repositório contém a solução completa para o pipeline de saneamento, ingestão, modelagem de dados e atribuição de conversões de CRM. A arquitetura foi construída utilizando a arquitetura Medallion (**Bronze**, **Silver** e **Gold**) no MySQL Workbench, garantindo qualidade de dados, rastreabilidade e idempotência no processamento.
 
